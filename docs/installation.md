@@ -199,6 +199,20 @@ Make sure you fulfill the [Requirements](#requirements) and have downloaded the 
 
 ### Install TA-Lib
 
+#### Install dependencies
+
+Using DNF:
+
+```bash
+sudo dnf install python3-devel gcc-c++
+```
+
+Using APT:
+
+```bash
+sudo apt install python3-devel gcc-c++
+```
+
 #### TA-Lib script installation
 
 ```bash
